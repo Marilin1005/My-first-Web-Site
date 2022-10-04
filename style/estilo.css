@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin: 30px;
+    border: 30px solid #87CEFA;
+}
+
+h1{
+    color: #87CEFA;
+    font-size: 3.5em;
+    font-family: 'Roboto', sans-serif;
+}
+
+p{
+    font-family: helvetica, arial, sans-serif;
+    color: #708090;
+    font-size: 1.5em;
+}
+
+p, h1, iframe,a{
+    align-items: center;
+    text-align: center;
+}
+
+a{
+    font-family: helvetica, arial, sans-serif;
+    font-size: 1.0em;
+}
+
+li{
+    list-style:none;
+}
+
+h4{
+    color: #87CEFA;
+    font-size: 2.0em;
+    font-family: 'Roboto', sans-serif;
+}
